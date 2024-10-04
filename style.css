@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+    }
+h1{
+    margin-bottom: 100px;
+}
+
+.button{
+   padding: 50px;
+   margin: 10px;
+   border: 2px solid black;
+   border-radius: 5px;
+}
+#grey{
+    background-color: grey;
+}
+#white{
+    background-color: white;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#yellow{
+    background-color: yellow;
+}
+.darkGrey{
+    background-color: #212121 ;
+}
